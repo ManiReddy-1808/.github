@@ -1,81 +1,62 @@
-#👋 Hi, I’m Mani Kanta Reddy
+# 👋 Hi, I’m Mani Kanta Reddy
 
-🔧 Associate IT Infrastructure Engineer | DevSecOps & AWS Practitioner
-📍 2+ years of hands-on experience supporting and operating production-grade web application infrastructure
+- 🔧 **I am an AWS DevOps Engineer with 2+ years of hands-on experience**
+- ☁️ Experienced in **maintaining, supporting, and automating cloud-based IT infrastructure**
+- 🔁 Strong in **infrastructure provisioning and CI/CD automation** using **Terraform and Jenkins**
+- 🧰 Hands-on with **AWS services**: **EC2, S3, RDS, VPC, EKS, R53, CloudWatch, IAM, Lambda**
+- 🧪 Automated routine administrative and operational tasks using **Shell scripting and Python**
+- 🚀 Focused on improving **efficiency, reliability, scalability, and security** of cloud infrastructure
+  
+---
 
-🚀 Professional Summary
+## 🧠 **Professional Summary**
 
-Infrastructure & DevOps professional with real-world experience in Linux-based environments
+- ✅ **Hands-on Infrastructure & DevOps professional** with real production exposure
+- ✅ **Experienced in Linux server administration** and web application operations
+- ✅ **Strong at troubleshooting live production issues**, performance bottlenecks, and configuration problems
+- ✅ **Currently upskilling in DevSecOps with AWS**, focusing on security, automation, and cloud-native practices
 
-Hands-on in designing, deploying, and maintaining highly available web applications
+---
 
-Strong exposure to production troubleshooting, security hardening, and performance tuning
+## 🧪 **What This GitHub Repository Contains**
 
-Currently upskilling in DevSecOps with AWS, focusing on secure CI/CD pipelines and cloud-native practices
+- 📂 **Daily hands-on DevSecOps practice**
+- 🔄 **End-to-end CI/CD pipelines** (Build → Test → Scan → Deploy)
+- 🐳 **Dockerfiles and containerized applications**
+- ☸️ **Kubernetes manifests** with best practices
+- 🔐 **Security scanning & hardening examples**
+- 📝 **Well-documented README files** explaining architecture and flow
+  
+---
 
-☁️ DevSecOps & AWS Focus Areas
+## 🏗️ **Infrastructure & Operations Experience**
 
-CI/CD Automation using GitHub, Jenkins, and Docker
+- 🌐 **Web Servers:** Nginx, Apache
+- ⚙️ **Application Runtime:** PHP
+- 🔐 **Security:** SSL/TLS, access control, hardening, WAF awareness
+- 🌍 **Environments:** Dev, SIT, UAT, Production
+- 🚨 **Operations:** Go-Live support, incident handling, root cause analysis
 
-Containerization & Orchestration with Docker & Kubernetes
+---
 
-AWS Cloud Services – EC2, IAM, VPC, S3 (hands-on usage)
+## 🎯 **Current Learning & Career Goals**
 
-Security-first approach in pipelines (DevSecOps mindset)
+- 📚 **Strengthening DevSecOps practices on AWS**
+- 🛠️ **Building secure, production-grade pipelines**
+- ☸️ **Deepening Kubernetes expertise (CKA-aligned)**
 
-Monitoring & Observability using ELK Stack and Grafana
+---
 
-🧪 What This GitHub Repository Represents
+## 🧰 **Tech Stack Snapshot**
 
-This repository is part of my daily DevSecOps hands-on practice.
+- 🐧 **OS:** Linux (RHEL, Ubuntu)
+- 🔧 **DevOps Tools:** Git, GitHub, Jenkins, Docker, Kubernetes
+- ☁️ **Cloud:** AWS, Azure
+- 📊 **Monitoring:** ELK Stack, Grafana
+- 🧪 **Scripting:** Shell, Python (basic)
 
-You will find:
+---
 
-📦 End-to-end CI/CD pipelines (Build → Scan → Deploy)
+✨ **This repository reflects my daily learning, hands-on practice, and commitment to secure DevSecOps workflows.**
 
-🐳 Docker images & optimized Dockerfiles
-
-☸️ Kubernetes manifests (Deployments, Services, Ingress)
-
-🔐 Security integrations (code scanning, image scanning, best practices)
-
-📊 Monitoring & logging configurations
-
-📝 Clear documentation explaining architecture, flow, and decisions
-
-⚠️ Note:
-All content here is practice-driven, experimented, and continuously improved — not copied templates.
-
-🏗️ Infrastructure Experience
-
-Web Servers: Nginx, Apache
-
-Runtime: PHP
-
-Security: SSL/TLS, access control, hardening, WAF awareness
-
-Environments: Dev, SIT, UAT, Production
-
-Operations: Go-Live support, incident handling, root cause analysis
-
-🎯 Current Objectives
-
-📚 Strengthen DevSecOps practices on AWS
-
-🛠️ Build production-oriented, secure pipelines
-
-☸️ Deepen Kubernetes expertise (CKA-aligned learning)
-
-💼 Prepare for a DevOps / DevSecOps role transition
-
-📌 Tech Stack Snapshot
-
-OS: Linux (RHEL, Ubuntu)
-
-DevOps: Git, GitHub, Jenkins, Docker, Kubernetes
-
-Cloud: AWS
-
-Monitoring: ELK Stack, Grafana
-
-Scripting: Shell, Python (basic)
+---
